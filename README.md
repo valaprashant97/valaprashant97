@@ -1,1 +1,1 @@
-# 👋 Hi, I'm Prashant
+# Hi, I'm Prashant
