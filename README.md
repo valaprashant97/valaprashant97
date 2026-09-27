@@ -236,27 +236,19 @@ interests:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=500&height=35&lines=Let's+build+something+useful.;Keep+learning.+Keep+building.;Code+%E2%80%A2+Create+%E2%80%A2+Improve." alt="Animated footer text"/>
 
+<!-- ─── SOCIAL / CONTACT ─── -->
 <div align="center">
-
-<a href="mailto:prashantvala.dev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="mailto:prashantvala.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/prashant-vala-422895430">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/prashant-vala-422895430" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://github.com/valaprashant97">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://x.com/PrashantVala97" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 &nbsp;
-<a href="https://www.instagram.com/prashantvala.dev">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<a href="https://www.instagram.com/prashantvala.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 &nbsp;
-<a href="https://x.com/PrashantVala97">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
+<a href="https://leetcode.com/u/valaprashant" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+&nbsp;
+<a href="https://github.com/valaprashant97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:6D28D9&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
