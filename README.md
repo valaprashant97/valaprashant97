@@ -29,7 +29,6 @@
 
 <!-- ─── SOCIAL / CONTACT ─── -->
 <div align="center">
-
 <a href="mailto:prashantvala.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/prashant-vala-422895430" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -41,48 +40,47 @@
 <a href="https://leetcode.com/u/valaprashant" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 &nbsp;
 <a href="https://github.com/valaprashant97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                               ABOUT ME                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;About Me
-
 <table>
 <tr>
 <td width="50%" valign="top">
+
+### 👨‍💻 About Me
 
 ```yaml
 name: Prashant Vala
 role: CSE Student & Developer
 location: India
-education: B.Tech — Computer Science Engineering
 
-focus_areas:
-  - Cross-Platform Mobile Development (Flutter)
-  - Frontend Web Development (React)
-  - Machine Learning & Data Analysis
-  - Data Structures & Algorithms
+primary_focus:
+  - Flutter & Dart
+  - Frontend Development
+  - Desktop Applications
+  - Machine Learning
+
+interests:
+  - Clean Architecture
+  - Responsive UI
+  - Cross-Platform Development
+  - Data & ML
 ```
 
 </td>
 <td width="50%" valign="top">
 
-- Building **cross-platform mobile apps** with Flutter & Dart
-- Developing **responsive web interfaces** with React, Tailwind CSS, and modern JavaScript
-- Exploring **Machine Learning** — NumPy, Pandas, Scikit-learn, Matplotlib
-- Solving problems on **[LeetCode](https://leetcode.com/u/valaprashant)** to sharpen DSA skills
-- Solid understanding of **DBMS**, **SQL**, and database design
-- Experimenting with **IoT** — bridging software and hardware
-- Working with **Docker**, **Git**, and **Postman** in daily workflows
+### 🚀 What I Do
+
+- 📱 Build **cross-platform applications** with Flutter & Dart
+- 🖥️ Develop **desktop applications** for Windows, macOS & Linux
+- 🌐 Create **responsive frontend interfaces**
+- 🤖 Explore **Machine Learning & Data Science**
+- 🗄️ Work with **SQLite, SQL, MongoDB & Firebase**
+- 🧩 Practice **DSA and problem solving**
+- 🔧 Use **Git, GitHub, Docker & Postman** in development workflows
 
 </td>
 </tr>
@@ -91,152 +89,98 @@ focus_areas:
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                               TECH STACK                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-#### Languages
-<img src="https://skillicons.dev/icons?i=c,dart,py,java,js,ts,html,css&theme=dark" alt="Languages"/>
+### 💻 Languages
 
-#### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=flutter,react,tailwind,bootstrap,jquery&theme=dark" alt="Frontend & Mobile"/>
+<img src="https://skillicons.dev/icons?i=c,dart,python,java,javascript,typescript,html,css&perline=8" alt="Programming languages"/>
 
-#### ML / Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48" alt="Scikit-learn"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-</p>
+### 📱 App & Frontend Development
 
-#### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql,firebase&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,tailwind,bootstrap,jquery&perline=5" alt="Frontend and mobile technologies"/>
 
-#### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker&theme=dark" alt="Tools"/>
+### 🤖 Machine Learning & Data
 
-#### Core Foundations
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4F46E5?style=for-the-badge" alt="DSA"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/DBMS-6D28D9?style=for-the-badge" alt="DBMS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/IoT-0EA5E9?style=for-the-badge" alt="IoT"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OOP-4338CA?style=for-the-badge" alt="OOP"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,sklearn&perline=5" alt="Machine learning technologies"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+
+### 🗄️ Databases & Backend Services
+
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,firebase&perline=4" alt="Databases and Firebase"/>
+
+### ⚙️ Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker&perline=6" alt="Development tools"/>
+
+### 🧠 Core Knowledge
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4F46E5?style=for-the-badge" alt="Data Structures and Algorithms"/>
+<img src="https://img.shields.io/badge/DBMS-6D28D9?style=for-the-badge" alt="DBMS"/>
+<img src="https://img.shields.io/badge/OOP-4338CA?style=for-the-badge" alt="OOP"/>
+<img src="https://img.shields.io/badge/IoT-0891B2?style=for-the-badge" alt="IoT"/>
 
 </div>
 
-<br/>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated separator"/>
 
-<br/>
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          CURRENTLY WORKING ON                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;Currently Working On
+## 🚀 Currently Working On
 
 <div align="center">
 
-| | Focus Area | Details |
+| ⚡ | Area | Current Focus |
 |:---:|:---|:---|
-| 🚀 | **Building** | Cross-platform apps with Flutter & Dart |
-| 🌐 | **Developing** | Modern web UIs with React & Tailwind CSS |
-| 🤖 | **Exploring** | ML pipelines — model training, data wrangling |
-| 🧩 | **Practicing** | DSA problem-solving on LeetCode |
-| 🔧 | **Improving** | CI/CD workflows with Docker & Git |
+| 📱 | **Flutter** | Cross-platform mobile & desktop applications |
+| 🖥️ | **Desktop** | Windows, macOS & Linux development |
+| 🎨 | **UI/UX** | Responsive and polished interfaces |
+| 🗄️ | **Data** | SQLite and local-first application design |
+| 🤖 | **ML** | Machine learning & data-oriented experiments |
+| 🌐 | **Frontend** | React, TypeScript & modern web interfaces |
 
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated separator"/>
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=valaprashant97&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=06B6D4&currStreakLabel=818CF8&sideLabels=C9D1D9" alt="GitHub Contribution Streak"/>
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
 
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                           GITHUB STATISTICS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"/> &nbsp;GitHub Analytics
+## 🧩 LeetCode
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=valaprashant97&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valaprashant97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=valaprashant97&theme=tokyonight&hide_border=true&background=0d1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" alt="GitHub Streak"/>
-
-</div>
+<a href="https://leetcode.com/u/valaprashant">
+<img src="https://leetcard.jacoblin.cool/valaprashant?theme=dark&font=Fira%20Code&border=0&radius=10" alt="LeetCode Statistics"/>
+</a>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          CONTRIBUTION GRAPH                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> &nbsp;Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valaprashant97&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818CF8&line=818CF8&point=c9d1d9&area=true&area_color=4F46E5" width="95%" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB TROPHIES                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="28"/> &nbsp;Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=valaprashant97&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                           LEETCODE STATS                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/SS8CV2LO2WHyzjKBYo/giphy.gif" width="28"/> &nbsp;LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/valaprashant" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/valaprashant?theme=dark&font=Fira+Code&border=0&radius=8" alt="LeetCode Stats"/>
+<a href="https://leetcode.com/u/valaprashant">
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
 </a>
 
 </div>
@@ -244,84 +188,78 @@ focus_areas:
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        DEVELOPMENT PHILOSOPHY                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## Development Philosophy
+## 🐍 Contribution Snake
 
 <div align="center">
 
-```
- Clean Code   •   SOLID Principles   •   Responsive UI   •   Performance First
-    Reusable Components   •   User-Focused Design   •   Cross-Platform Thinking
-```
+<!-- Requires a GitHub Action to generate the snake SVG in the profile repository. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake.svg" width="95%" alt="Animated GitHub contribution snake"/>
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated separator"/>
+
+</div>
+
+## 📚 Learning & Improving
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter%20Desktop-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Desktop"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          CONTRIBUTION SNAKE                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45" alt="Animated waving developer"/>
 
-</div>
+### Thanks for visiting my profile! ⭐
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              DEV QUOTE                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=500&height=35&lines=Let's+build+something+useful.;Keep+learning.+Keep+building.;Code+%E2%80%A2+Create+%E2%80%A2+Improve." alt="Animated footer text"/>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                               FOOTER                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
-
-### Thanks for stopping by!
-
-**Let's connect and build something great together.**
-
-<br/>
-
-<a href="mailto:prashantvala.dev@gmail.com"><img src="https://img.shields.io/badge/Email_Me-818CF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:prashantvala.dev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 &nbsp;
-<a href="https://www.linkedin.com/in/prashant-vala-422895430" target="_blank"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/prashant-vala-422895430">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 &nbsp;
-<a href="https://github.com/valaprashant97" target="_blank"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/valaprashant97">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/prashantvala.dev">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://x.com/PrashantVala97">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+</div>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:4F46E5,100:6D28D9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:6D28D9&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
 
 </div>
