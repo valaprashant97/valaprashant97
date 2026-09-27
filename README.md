@@ -54,7 +54,7 @@
 ```yaml
 name: Prashant Vala
 role: CSE Student & Developer
-location: India
+location: India, Gujarat, Junagudh, Keshod
 
 primary_focus:
   - Flutter & Dart
