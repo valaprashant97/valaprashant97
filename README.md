@@ -59,7 +59,6 @@ location: India, Gujarat, Junagadh, Keshod
 primary_focus:
   - Flutter & Dart
   - Frontend Development
-  - Desktop Applications
   - Machine Learning
 
 interests:
