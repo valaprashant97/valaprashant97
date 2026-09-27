@@ -143,7 +143,7 @@ interests:
 | ⚡ | Area | Current Focus |
 |:---:|:---|:---|
 | 📱 | **Flutter** | Cross-platform mobile & desktop applications |
-| 🖥️ | **Desktop** | Windows, macOS & Linux development |
+| 🖥️ | **Apps Dev** | Android, ios, Windows, macOS & Linux development |
 | 🎨 | **UI/UX** | Responsive and polished interfaces |
 | 🗄️ | **Data** | SQLite and local-first application design |
 | 🤖 | **ML** | Machine learning & data-oriented experiments |
