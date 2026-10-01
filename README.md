@@ -212,7 +212,7 @@ interests:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Flutter%20Desktop-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Desktop"/>
+<img src="https://img.shields.io/badge/Flutter%20-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
 <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
