@@ -160,7 +160,17 @@ interests:
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+<!-- ─── STATS + TOP LANGUAGES ─── -->
+<img src="https://github-readme-stats.vercel.app/api?username=valaprashant97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=06B6D4&text_color=C9D1D9&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valaprashant97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=8" height="195" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- ─── STREAK ─── -->
 <img src="https://streak-stats.demolab.com/?user=valaprashant97&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=06B6D4&currStreakLabel=818CF8&sideLabels=C9D1D9" alt="GitHub Contribution Streak"/>
+
 </div>
 
 <br/>
