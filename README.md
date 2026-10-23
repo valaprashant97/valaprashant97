@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- PRASHANT VALA — GitHub Profile README                                        -->
+<!-- PRASHANT VALA — GitHub Profile README                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -10,9 +10,7 @@
 <br/>
 
 <!-- ─── TYPING SVG ─── -->
-<a href="https://github.com/valaprashant97">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Flutter+%26+Dart+%E2%80%A2+Cross-Platform+Apps;React+%26+Tailwind+%E2%80%A2+Modern+Web+Interfaces;Machine+Learning+%E2%80%A2+Data-Driven+Solutions;DSA+%E2%80%A2+Clean+Architecture+%E2%80%A2+Problem+Solving" alt="Typing SVG"/>
-</a>
+<a href="https://github.com/valaprashant97"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Flutter+%26+Dart+%E2%80%A2+Cross-Platform+Apps;React+%26+Tailwind+%E2%80%A2+Modern+Web+Interfaces;Machine+Learning+%E2%80%A2+Data-Driven+Solutions;DSA+%E2%80%A2+Clean+Architecture+%E2%80%A2+Problem+Solving" alt="Typing SVG"/></a>
 
 <br/><br/>
 
@@ -44,6 +42,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -85,10 +84,8 @@ interests:
 </table>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
-
 
 ## 🛠️ Tech Stack
 
@@ -130,9 +127,7 @@ interests:
 </div>
 
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated separator"/>
-
 </div>
 
 ## 🚀 Currently Working On
@@ -142,7 +137,7 @@ interests:
 | ⚡ | Area | Current Focus |
 |:---:|:---|:---|
 | 📱 | **Flutter** | Cross-platform mobile & desktop applications |
-| 🖥️ | **Apps Dev** | Android, ios, Windows, macOS & Linux development |
+| 🖥️ | **Apps Dev** | Android, iOS, Windows, macOS & Linux development |
 | 🎨 | **UI/UX** | Responsive and polished interfaces |
 | 🗄️ | **Data** | SQLite and local-first application design |
 | 🤖 | **ML** | Machine learning & data-oriented experiments |
@@ -151,26 +146,33 @@ interests:
 </div>
 
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated separator"/>
-
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=valaprashant97&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=06B6D4&currStreakLabel=818CF8&sideLabels=C9D1D9" alt="GitHub Contribution Streak"/>
-  
-<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=valaprashant97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=06B6D4&text_color=C9D1D9&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valaprashant97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=8" height="195" alt="Top Languages"/>
+  <!-- 📈 ROW 1: STATS & STREAK CARDS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=valaprashant97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=06B6D4&text_color=C9D1D9&include_all_commits=true&count_private=true&border_radius=12&rank_icon=percentile" height="185" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=valaprashant97&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=06B6D4&currStreakLabel=818CF8&sideLabels=C9D1D9&border_radius=12" height="185" alt="GitHub Contribution Streak"/>
+
+  <br/><br/>
+
+  <!-- 💻 ROW 2: TOP LANGUAGES & PRODUCTIVE CODING TIME -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valaprashant97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=8&border_radius=12" height="185" alt="Top Languages"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=valaprashant97&theme=tokyonight&utcOffset=5.5" height="185" alt="Productive Coding Time"/>
+
+  <br/><br/>
+
+  <!-- 📉 ROW 3: FULL-WIDTH PROFILE & CONTRIBUTION GRAPH -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valaprashant97&theme=tokyonight" width="82%" alt="GitHub Profile Summary & Activity Graph"/>
 
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
 
@@ -178,20 +180,15 @@ interests:
 
 <div align="center">
 
-<a href="https://leetcode.com/u/valaprashant">
-<img src="https://leetcard.jacoblin.cool/valaprashant?theme=dark&font=Fira%20Code&border=0&radius=10" alt="LeetCode Statistics"/>
-</a>
+<a href="https://leetcode.com/u/valaprashant"><img src="https://leetcard.jacoblin.cool/valaprashant?theme=dark&font=Fira%20Code&border=0&radius=10" alt="LeetCode Statistics"/></a>
 
-<br/>
+<br/><br/>
 
-<a href="https://leetcode.com/u/valaprashant">
-<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
-</a>
+<a href="https://leetcode.com/u/valaprashant"><img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/></a>
 
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
 
@@ -209,9 +206,7 @@ interests:
 </div>
 
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated separator"/>
-
 </div>
 
 ## 📚 Learning & Improving
@@ -228,7 +223,6 @@ interests:
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
 
