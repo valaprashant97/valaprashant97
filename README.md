@@ -1,58 +1,65 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- PRASHANT VALA — GitHub Profile README                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  PRASHANT VALA · GitHub Profile README                                      -->
+<!--  Palette: Violet #8B5CF6 · Indigo #6366F1 · Cyan #06B6D4 · Night #0D1117    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ─── HEADER WAVE ─── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:4F46E5,100:0EA5E9&height=220&section=header&text=Prashant%20Vala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=CSE%20Student%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Frontend%20Developer&descAlignY=52&descSize=16&descColor=E0E7FF" width="100%"/>
+<!-- ─── HERO HEADER ─── -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:06B6D4&height=260&section=header&text=Prashant%20Vala&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=CSE%20Student%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Frontend%20Developer&descSize=17&descAlignY=62&descColor=E0E7FF" width="100%" alt="Prashant Vala header"/>
+
+<!-- ─── TYPING ANIMATION ─── -->
+<a href="https://github.com/valaprashant97">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A5B4FC&center=true&vCenter=true&width=640&height=50&lines=%F0%9F%93%B1+Flutter+%26+Dart+%E2%80%A2+Cross-Platform+Apps;%F0%9F%8C%90+React+%26+Tailwind+%E2%80%A2+Modern+Web+Interfaces;%F0%9F%A4%96+Machine+Learning+%E2%80%A2+Data-Driven+Solutions;%F0%9F%A7%A9+DSA+%E2%80%A2+Clean+Architecture+%E2%80%A2+Problem+Solving" alt="Typing animation"/>
+</a>
 
 <br/>
 
-<!-- ─── TYPING SVG ─── -->
-<a href="https://github.com/valaprashant97"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Flutter+%26+Dart+%E2%80%A2+Cross-Platform+Apps;React+%26+Tailwind+%E2%80%A2+Modern+Web+Interfaces;Machine+Learning+%E2%80%A2+Data-Driven+Solutions;DSA+%E2%80%A2+Clean+Architecture+%E2%80%A2+Problem+Solving" alt="Typing SVG"/></a>
+<!-- ─── WELCOME ─── -->
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="38" alt="👋"/>
+&nbsp;<b>Hi there, welcome to my corner of GitHub!</b>&nbsp;
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="38" alt="✨"/>
 
 <br/><br/>
 
-<!-- ─── PROFILE BADGES ─── -->
-<img src="https://komarev.com/ghpvc/?username=valaprashant97&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/valaprashant97?style=for-the-badge&color=4F46E5&labelColor=1e1b4b&logo=github&logoColor=white&label=Followers" alt="GitHub Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/valaprashant97?style=for-the-badge&color=0EA5E9&labelColor=0c4a6e&logo=github&logoColor=white&label=Stars&affiliations=OWNER" alt="GitHub Stars"/>
+<!-- ─── LIVE BADGES ─── -->
+<img src="https://komarev.com/ghpvc/?username=valaprashant97&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/valaprashant97?style=for-the-badge&color=6366F1&labelColor=1e1b4b&logo=github&logoColor=white&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/valaprashant97?style=for-the-badge&color=06B6D4&labelColor=083344&logo=github&logoColor=white&label=Stars&affiliations=OWNER" alt="Stars"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
+<!-- ─── SOCIAL BUTTONS ─── -->
 <a href="mailto:prashantvala.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-&nbsp;
 <a href="https://www.linkedin.com/in/prashant-vala-422895430" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
 <a href="https://x.com/PrashantVala97" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-&nbsp;
 <a href="https://www.instagram.com/prashantvala.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-&nbsp;
 <a href="https://leetcode.com/u/valaprashant" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-&nbsp;
 <a href="https://github.com/valaprashant97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
+<!-- divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,2,12&height=3&section=header" width="100%" alt=""/>
 
-<table>
+<!-- ═════════════════════════ ABOUT ═════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="34" alt="💻" valign="middle"/>
+  &nbsp;About Me&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="34" alt="💻" valign="middle"/>
+</h2>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 About Me
+### 🧑‍💻 Profile Card
 
 ```yaml
 name: Prashant Vala
 role: CSE Student & Developer
-location: India, Gujarat, Junagadh, Keshod
+location: Keshod, Junagadh, Gujarat, India 🇮🇳
 
 primary_focus:
   - Flutter & Dart
@@ -71,186 +78,180 @@ interests:
 
 ### 🚀 What I Do
 
-- 📱 Build **cross-platform applications** with Flutter & Dart
-- 🖥️ Develop **desktop applications** for Windows, macOS & Linux
+- 📱 Build **cross-platform apps** with Flutter & Dart
+- 🖥️ Develop **desktop apps** for Windows, macOS & Linux
 - 🌐 Create **responsive frontend interfaces**
 - 🤖 Explore **Machine Learning & Data Science**
 - 🗄️ Work with **SQLite, SQL, MongoDB & Firebase**
-- 🧩 Practice **DSA and problem solving**
-- 🔧 Use **Git, GitHub, Docker & Postman** in development workflows
+- 🧩 Practice **DSA & problem solving**
+- 🔧 Use **Git, GitHub, Docker & Postman** daily
 
 </td>
 </tr>
 </table>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,2,12&height=3&section=header" width="100%" alt=""/>
 
-## 🛠️ Tech Stack
+<!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f527/512.gif" width="34" alt="🔧" valign="middle"/>
+  &nbsp;Tech Stack&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f527/512.gif" width="34" alt="🔧" valign="middle"/>
+</h2>
 
 <div align="center">
 
-### 💻 Languages
+<table>
+<tr><td align="center" width="220"><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=c,dart,python,java,javascript,typescript,html,css&perline=8&theme=dark" alt="Languages"/>
+</td></tr>
 
-<img src="https://skillicons.dev/icons?i=c,dart,python,java,javascript,typescript,html,css&perline=8" alt="Programming languages"/>
+<tr><td align="center"><b>📱 App & Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter,react,tailwind,bootstrap,jquery&perline=5&theme=dark" alt="App and frontend"/>
+</td></tr>
 
-### 📱 App & Frontend Development
-
-<img src="https://skillicons.dev/icons?i=flutter,react,tailwind,bootstrap,jquery&perline=5" alt="Frontend and mobile technologies"/>
-
-### 🤖 Machine Learning & Data
-
-<img src="https://skillicons.dev/icons?i=python,sklearn&perline=5" alt="Machine learning technologies"/>
-
-<br/>
-
+<tr><td align="center"><b>🤖 ML & Data</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,sklearn&perline=2&theme=dark" alt="ML"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+</td></tr>
 
-### 🗄️ Databases & Backend Services
+<tr><td align="center"><b>🗄️ Databases & Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,firebase&perline=4&theme=dark" alt="Databases"/>
+</td></tr>
 
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,firebase&perline=4" alt="Databases and Firebase"/>
+<tr><td align="center"><b>⚙️ Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker&perline=6&theme=dark" alt="Tools"/>
+</td></tr>
 
-### ⚙️ Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker&perline=6" alt="Development tools"/>
-
-### 🧠 Core Knowledge
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4F46E5?style=for-the-badge" alt="Data Structures and Algorithms"/>
-<img src="https://img.shields.io/badge/DBMS-6D28D9?style=for-the-badge" alt="DBMS"/>
-<img src="https://img.shields.io/badge/OOP-4338CA?style=for-the-badge" alt="OOP"/>
-<img src="https://img.shields.io/badge/IoT-0891B2?style=for-the-badge" alt="IoT"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated separator"/>
-</div>
-
-## 🚀 Currently Working On
-
-<div align="center">
-
-| ⚡ | Area | Current Focus |
-|:---:|:---|:---|
-| 📱 | **Flutter** | Cross-platform mobile & desktop applications |
-| 🖥️ | **Apps Dev** | Android, iOS, Windows, macOS & Linux development |
-| 🎨 | **UI/UX** | Responsive and polished interfaces |
-| 🗄️ | **Data** | SQLite and local-first application design |
-| 🤖 | **ML** | Machine learning & data-oriented experiments |
-| 🌐 | **Frontend** | React, TypeScript & modern web interfaces |
+<tr><td align="center"><b>🧠 Core Knowledge</b></td>
+<td>
+<img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge" alt="DSA"/>
+<img src="https://img.shields.io/badge/DBMS-6366F1?style=for-the-badge" alt="DBMS"/>
+<img src="https://img.shields.io/badge/OOP-4F46E5?style=for-the-badge" alt="OOP"/>
+<img src="https://img.shields.io/badge/IoT-06B6D4?style=for-the-badge" alt="IoT"/>
+</td></tr>
+</table>
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated separator"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,2,12&height=3&section=header" width="100%" alt=""/>
 
-## 📊 GitHub Analytics
+<!-- ═════════════════════════ ANALYTICS ═════════════════════════ -->
 
-<div align="center">
-
-  <!-- 📈 ROW 1: STATS & STREAK CARDS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=valaprashant97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=06B6D4&text_color=C9D1D9&include_all_commits=true&count_private=true&border_radius=12&rank_icon=percentile" height="185" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=valaprashant97&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=06B6D4&currStreakLabel=818CF8&sideLabels=C9D1D9&border_radius=12" height="185" alt="GitHub Contribution Streak"/>
-
-  <br/><br/>
-
-  <!-- 💻 ROW 2: TOP LANGUAGES & PRODUCTIVE CODING TIME -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valaprashant97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=8&border_radius=12" height="185" alt="Top Languages"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=valaprashant97&theme=tokyonight&utcOffset=5.5" height="185" alt="Productive Coding Time"/>
-
-  <br/><br/>
-
-  <!-- 📉 ROW 3: FULL-WIDTH PROFILE & CONTRIBUTION GRAPH -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valaprashant97&theme=tokyonight" width="82%" alt="GitHub Profile Summary & Activity Graph"/>
-
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
-
-## 🧩 LeetCode
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="34" alt="📊" valign="middle"/>
+  &nbsp;GitHub Analytics&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="34" alt="📊" valign="middle"/>
+</h2>
 
 <div align="center">
 
-<a href="https://leetcode.com/u/valaprashant"><img src="https://leetcard.jacoblin.cool/valaprashant?theme=dark&font=Fira%20Code&border=0&radius=10" alt="LeetCode Statistics"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=valaprashant97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=06B6D4&text_color=C9D1D9&include_all_commits=true&count_private=true&border_radius=14&rank_icon=percentile" height="185" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com/?user=valaprashant97&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=A5B4FC&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=14" height="185" alt="Streak"/>
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/valaprashant"><img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valaprashant97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9&langs_count=8&border_radius=14" height="185" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=valaprashant97&theme=tokyonight&utcOffset=5.5" height="185" alt="Productive time"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valaprashant97&theme=tokyonight" width="82%" alt="Profile details"/>
+
+<br/><br/>
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=valaprashant97&bg_color=0D1117&color=A5B4FC&line=8B5CF6&point=06B6D4&area=true&area_color=6366F1&hide_border=true&radius=14" width="95%" alt="Contribution activity graph"/>
+
+<br/><br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=valaprashant97&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="95%" alt="Trophies"/>
 
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,2,12&height=3&section=header" width="100%" alt=""/>
 
-## 🐍 Contribution Snake
+<!-- ═════════════════════════ LEETCODE ═════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e9/512.gif" width="34" alt="🧩" valign="middle"/>
+  &nbsp;LeetCode&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e9/512.gif" width="34" alt="🧩" valign="middle"/>
+</h2>
 
 <div align="center">
 
-<!-- Requires a GitHub Action to generate the snake SVG in the profile repository. -->
+<a href="https://leetcode.com/u/valaprashant"><img src="https://leetcard.jacoblin.cool/valaprashant?theme=dark&font=Fira%20Code&border=0&radius=14" alt="LeetCode statistics"/></a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/valaprashant"><img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,2,12&height=3&section=header" width="100%" alt=""/>
+
+<!-- ═════════════════════════ SNAKE ═════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="34" alt="🐍" valign="middle"/>
+  &nbsp;Contribution Snake&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="34" alt="🐍" valign="middle"/>
+</h2>
+
+<div align="center">
+
+<!-- Requires a GitHub Action in the profile repo to generate the snake SVG on the `output` branch. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake.svg" width="95%" alt="Animated GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake.svg" width="95%" alt="Animated contribution snake"/>
 </picture>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,2,12&height=3&section=header" width="100%" alt=""/>
+
+<!-- ═════════════════════════ CONNECT ═════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="34" alt="🤝" valign="middle"/>
+  &nbsp;Let's Connect&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" width="34" alt="📫" valign="middle"/>
+</h2>
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated separator"/>
-</div>
 
-## 📚 Learning & Improving
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="44" alt="🚀"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="44" alt="✨"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="44" alt="💻"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="44" alt="🔥"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="44" alt="💖"/>
 
-<div align="center">
+### Thanks for visiting my profile!
 
-<img src="https://img.shields.io/badge/Flutter%20-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=560&height=40&lines=%F0%9F%9A%80+Let's+build+something+useful.;%F0%9F%93%9A+Keep+learning.+Keep+building.;%E2%9C%A8+Code+%E2%80%A2+Create+%E2%80%A2+Improve.;%F0%9F%A4%9D+Open+to+collaborate+%E2%80%94+say+hi!" alt="Footer typing animation"/>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45" alt="Animated waving developer"/>
-
-### Thanks for visiting my profile! ⭐
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=500&height=35&lines=Let's+build+something+useful.;Keep+learning.+Keep+building.;Code+%E2%80%A2+Create+%E2%80%A2+Improve." alt="Animated footer text"/>
-
-<!-- ─── SOCIAL / CONTACT ─── -->
-<div align="center">
 <a href="mailto:prashantvala.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-&nbsp;
 <a href="https://www.linkedin.com/in/prashant-vala-422895430" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
 <a href="https://x.com/PrashantVala97" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-&nbsp;
 <a href="https://www.instagram.com/prashantvala.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-&nbsp;
 <a href="https://leetcode.com/u/valaprashant" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-&nbsp;
 <a href="https://github.com/valaprashant97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:6D28D9&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=200&section=footer&text=Keep%20Building%20%E2%9C%A8&fontSize=34&fontColor=ffffff&fontAlignY=62&animation=twinkling" width="100%" alt="Footer wave"/>
 
 </div>
