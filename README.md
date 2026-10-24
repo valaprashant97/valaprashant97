@@ -250,8 +250,4 @@ interests:
 <a href="https://leetcode.com/u/valaprashant" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://github.com/valaprashant97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=200&section=footer&text=Keep%20Building%20%E2%9C%A8&fontSize=34&fontColor=ffffff&fontAlignY=62&animation=twinkling" width="100%" alt="Footer wave"/>
-
 </div>
