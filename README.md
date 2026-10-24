@@ -204,14 +204,13 @@ interests:
 
 <br/>
 <!-- ═════════════════════════ CONNECT ═════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:6366F1,100:06B6D4&height=3&section=header" width="100%" alt=""/>
 
 <h3 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="34" alt="🤝" valign="middle"/>
   &nbsp;Let's Connect&nbsp;
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" width="34" alt="📫" valign="middle"/>
 </h3>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:6366F1,100:06B6D4&height=3&section=header" width="100%" alt=""/>
 
 <div align="center">
 
@@ -235,3 +234,5 @@ interests:
 <a href="https://github.com/valaprashant97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:6366F1,100:06B6D4&height=3&section=header" width="100%" alt=""/>
+
