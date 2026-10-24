@@ -201,27 +201,6 @@ interests:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,2,12&height=3&section=header" width="100%" alt=""/>
 
-<!-- ═════════════════════════ SNAKE ═════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="34" alt="🐍" valign="middle"/>
-  &nbsp;Contribution Snake&nbsp;
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="34" alt="🐍" valign="middle"/>
-</h2>
-
-<div align="center">
-
-<!-- Requires a GitHub Action in the profile repo to generate the snake SVG on the `output` branch. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/valaprashant97/valaprashant97/output/github-contribution-grid-snake.svg" width="95%" alt="Animated contribution snake"/>
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,2,12&height=3&section=header" width="100%" alt=""/>
-
 <!-- ═════════════════════════ CONNECT ═════════════════════════ -->
 
 <h2 align="center">
