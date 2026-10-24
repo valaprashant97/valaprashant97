@@ -185,9 +185,9 @@ interests:
 <!-- ═════════════════════════ LEETCODE ═════════════════════════ -->
 
 <h3 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="44" alt="🔥"/>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" alt="🔥"/>
   &nbsp;LeetCode&nbsp;
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="44" alt="🔥"/>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" alt="🔥"/>
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:6366F1,100:06B6D4&height=3&section=header" width="100%" alt=""/>
