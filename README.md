@@ -168,13 +168,14 @@ interests:
 
 <br/><br/>
 
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valaprashant97&bg_color=0D1117&color=A5B4FC&line=8B5CF6&point=06B6D4&area=true&area_color=6366F1&hide_border=true&radius=14" width="95%" alt="Contribution activity graph"/>
+<!-- Contribution heatmap (stable) -->
+<img src="https://ghchart.rshah.org/8B5CF6/valaprashant97" width="95%" alt="Contribution chart"/>
 
 <br/><br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=valaprashant97&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="95%" alt="Trophies"/>
+<!-- Language cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valaprashant97&theme=tokyonight" height="185" alt="Most used languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valaprashant97&theme=tokyonight" height="185" alt="Repos per language"/>
 
 </div>
 
