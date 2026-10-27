@@ -156,28 +156,28 @@ interests:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=valaprashant97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=06B6D4&text_color=C9D1D9&include_all_commits=true&count_private=true&border_radius=14&rank_icon=percentile" height="185" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com/?user=valaprashant97&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=A5B4FC&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=14" height="185" alt="Streak"/>
+<img src="./assets/github-stats.svg" height="185" alt="GitHub stats"/>
+<img src="./assets/streak.svg" height="185" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valaprashant97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9&langs_count=8&border_radius=14" height="185" alt="Top languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=valaprashant97&theme=tokyonight&utcOffset=5.5" height="185" alt="Productive time"/>
+<img src="./assets/top-langs.svg" height="185" alt="Top languages"/>
+<img src="./assets/productive-time.svg" height="185" alt="Productive time"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valaprashant97&theme=tokyonight" width="82%" alt="Profile details"/>
+<img src="./assets/profile-details.svg" width="82%" alt="Profile details"/>
 
 <br/><br/>
 
 <!-- Contribution heatmap (stable) -->
-<img src="https://ghchart.rshah.org/8B5CF6/valaprashant97" width="95%" alt="Contribution chart"/>
+<img src="./assets/contrib-chart.svg" width="95%" alt="Contribution chart"/>
 
 <br/><br/>
 
 <!-- Language cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valaprashant97&theme=tokyonight" height="185" alt="Most used languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valaprashant97&theme=tokyonight" height="185" alt="Repos per language"/>
+<img src="./assets/most-commit-language.svg" height="185" alt="Most used languages"/>
+<img src="./assets/repos-per-language.svg" height="185" alt="Repos per language"/>
 
 </div>
 
@@ -194,7 +194,7 @@ interests:
 
 <div align="center">
 
-<a href="https://leetcode.com/u/valaprashant"><img src="https://leetcard.jacoblin.cool/valaprashant?theme=dark&font=Fira%20Code&border=0&radius=14" alt="LeetCode statistics"/></a>
+<a href="https://leetcode.com/u/valaprashant"><img src="./assets/leetcode.svg" alt="LeetCode statistics"/></a>
 
 <br/><br/>
 
