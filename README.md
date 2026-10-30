@@ -4,7 +4,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
 <!-- ─── HERO HEADER ─── -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:06B6D4&height=260&section=header&text=Prashant%20Vala&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=CSE%20Student%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Frontend%20Developer&descSize=17&descAlignY=62&descColor=E0E7FF" width="100%" alt="Prashant Vala header"/>
 
@@ -69,7 +68,7 @@ primary_focus:
 interests:
   - Clean Architecture
   - Responsive UI
-  - Cross-Platform Development
+  - Cross-Platform App Development
   - Data & ML
 ```
 
