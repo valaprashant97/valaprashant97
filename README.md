@@ -184,6 +184,12 @@ interests:
 <!-- ═════════════════════════ LEETCODE ═════════════════════════ -->
 
 <h3 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" alt="🔥" valign="middle"/>
+  &nbsp;LeetCode&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" alt="🔥" valign="middle"/>
+</h3>
+
+<h3 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" alt="🔥"/>
   &nbsp;LeetCode&nbsp;
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" alt="🔥"/>
