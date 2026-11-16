@@ -7,7 +7,6 @@ on:
   push:
     paths:
       - ".github/workflows/update-stats.yml"
-      - "scripts/**"
 
 permissions:
   contents: write
@@ -84,18 +83,8 @@ jobs:
           download_svg "profile-details.svg" "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valaprashant97&theme=tokyonight"
           download_svg "most-commit-language.svg" "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valaprashant97&theme=tokyonight"
           download_svg "repos-per-language.svg" "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valaprashant97&theme=tokyonight"
+          download_svg "contrib-chart.svg" "https://ghchart.rshah.org/8B5CF6/valaprashant97"
           download_svg "leetcode.svg" "https://leetcard.jacoblin.cool/valaprashant?theme=dark&font=Fira%20Code&border=0&radius=14"
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Generate dynamic GitHub contributions graph
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python scripts/generate_contrib_graph.py --username valaprashant97 --output assets/contrib-chart.svg
 
       - name: Commit and push changes
         run: |
