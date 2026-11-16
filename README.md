@@ -169,14 +169,28 @@ interests:
 
 <br/><br/>
 
-<!-- Contribution heatmap (stable) -->
-<img src="./assets/contrib-chart.svg" width="95%" alt="Contribution chart"/>
-
-<br/><br/>
-
 <!-- Language cards -->
 <img src="./assets/most-commit-language.svg" height="185" alt="Most used languages"/>
 <img src="./assets/repos-per-language.svg" height="185" alt="Repos per language"/>
+
+</div>
+
+<br/>
+<!-- ═════════════════════════ CONTRIBUTION GRAPH ═════════════════════════ -->
+
+<h3 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="34" alt="📈" valign="middle"/>
+  &nbsp;Contribution Graph&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="34" alt="📈" valign="middle"/>
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:6366F1,100:06B6D4&height=3&section=header" width="100%" alt=""/>
+
+<div align="center">
+
+<a href="https://github.com/valaprashant97">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valaprashant97&theme=tokyo-night&custom_title=Prashant%20Vala's%20Contribution%20Graph" width="100%" alt="Prashant Vala's Contribution Graph"/>
+</a>
 
 </div>
 

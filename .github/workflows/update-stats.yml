@@ -83,7 +83,8 @@ jobs:
           download_svg "profile-details.svg" "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valaprashant97&theme=tokyonight"
           download_svg "most-commit-language.svg" "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valaprashant97&theme=tokyonight"
           download_svg "repos-per-language.svg" "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valaprashant97&theme=tokyonight"
-          download_svg "contrib-chart.svg" "https://ghchart.rshah.org/8B5CF6/valaprashant97"
+          download_svg "contrib-chart.svg" "https://github-readme-activity-graph.vercel.app/graph?username=valaprashant97&theme=tokyo-night&custom_title=Prashant%20Vala's%20Contribution%20Graph"
+          download_svg "contribution-graph.svg" "https://github-readme-activity-graph.vercel.app/graph?username=valaprashant97&theme=tokyo-night&custom_title=Prashant%20Vala's%20Contribution%20Graph"
           download_svg "leetcode.svg" "https://leetcard.jacoblin.cool/valaprashant?theme=dark&font=Fira%20Code&border=0&radius=14"
 
       - name: Commit and push changes
