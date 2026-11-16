@@ -202,23 +202,7 @@ interests:
 </div>
 
 <br/>
-<!-- ═════════════════════════ GEEKSFORGEEKS ═════════════════════════ -->
 
-<h3 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="34" alt="💻" valign="middle"/>
-  &nbsp;GeeksforGeeks&nbsp;
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="34" alt="💻" valign="middle"/>
-</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:6366F1,100:06B6D4&height=3&section=header" width="100%" alt=""/>
-
-<div align="center">
-
-<img src="./assets/geeksforgeeks-contributions.png" width="95%" alt="GeeksforGeeks Contributions"/>
-
-</div>
-
-<br/>
 <!-- ═════════════════════════ CONNECT ═════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:6366F1,100:06B6D4&height=3&section=header" width="100%" alt=""/>
 
