@@ -325,7 +325,7 @@ def generate_svg(days, total_contributions):
         )
 
     # Assemble complete SVG
-    svg = f"""<svg width="100%" height="auto" viewBox="0 0 {W} {H}" fill="none" xmlns="http://www.w3.org/2000/svg">
+    svg = f"""<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="area-gradient" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#388bfd" stop-opacity="0.25"/>
