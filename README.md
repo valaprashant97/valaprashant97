@@ -195,8 +195,6 @@ interests:
 
 <a href="https://leetcode.com/u/valaprashant"><img src="./assets/leetcode.svg" alt="LeetCode statistics"/></a>
 
-<br/><br/>
-
 <a href="https://leetcode.com/u/valaprashant"><img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/></a>
 
 </div>
