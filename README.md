@@ -189,7 +189,7 @@ interests:
 <div align="center">
 
 <a href="https://github.com/valaprashant97">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valaprashant97&theme=tokyo-night&custom_title=Prashant%20Vala's%20Contribution%20Graph" width="100%" alt="Prashant Vala's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valaprashant97&theme=tokyo-night&custom_title=Prashant%20Vala's%20Contribution%20Graph&hide_border=true" width="100%" alt="Prashant Vala's Contribution Graph"/>
 </a>
 
 </div>
