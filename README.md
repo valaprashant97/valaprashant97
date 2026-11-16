@@ -169,8 +169,8 @@ interests:
 
 <br/><br/>
 
-<!-- Contribution heatmap (stable) -->
-<img src="./assets/contrib-chart.svg" width="95%" alt="Contribution chart"/>
+<!-- Real dynamic GitHub contributions graph -->
+<img src="./assets/contrib-chart.svg" width="95%" alt="GitHub Contributions Graph"/>
 
 <br/><br/>
 
